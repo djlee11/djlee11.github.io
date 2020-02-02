@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Daniel J. Lee</title>
+		<link>djlee11.github.io/posts/</link>
+		<description>Recent content in Posts on Daniel J. Lee</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="djlee11.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>First post!</title>
+			<link>djlee11.github.io/posts/first_post/</link>
+			<pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+			
+			<guid>djlee11.github.io/posts/first_post/</guid>
+			<description>Step 1. Install Hugo Hello! I am growing.</description>
+			<content type="html"><![CDATA[<h2 id="step-1-install-hugo">Step 1. Install Hugo</h2>
+<p>Hello! I am <a href="https://github.com/djlee11/djlee11.github.io">growing.</a></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

@@ -6,9 +6,28 @@
     <description>Recent content on Daniel J. Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="djlee11.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>djlee11.github.io/about/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>djlee11.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First post!</title>
+      <link>djlee11.github.io/posts/first_post/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>djlee11.github.io/posts/first_post/</guid>
+      <description>Step 1. Install Hugo Hello! I am growing.</description>
+    </item>
     
   </channel>
 </rss>
